@@ -1,0 +1,66 @@
+body{
+    text-align: center;
+    background-repeat: no-repeat;    
+    padding-bottom: 5rem;
+    background-color:  gray;  
+    
+    
+}
+
+label{
+    font-size:x-large;
+    display: block;
+    padding-top: 2rem;
+    text-decoration: solid;
+    text-decoration-style: double;
+
+}
+
+
+    h1{
+        font-size:250%;
+        font-style:normal;
+        display:block;
+        padding:2rem;
+        background-color: aqua;    
+    }
+
+
+    input{
+        display: block;
+        padding: 1rem;
+        border-radius: 0.5rem;
+        width: 15rem;
+        border-color: aqua;
+        margin: auto;
+        align-items: center;
+
+    }
+
+    button{
+    
+        margin:1rem;
+        width: 10rem;
+        height: 4vh;
+        background-color:aquamarine;
+        border-radius: .4rem;
+        border:double;
+        font-weight: bolder;
+    }
+
+
+    #output-box {
+        font-size: larger;
+        color: black;
+        padding-bottom: 7rem;
+    }
+    
+
+    footer{
+        background-color: aqua;
+
+
+    }
+
+
+
